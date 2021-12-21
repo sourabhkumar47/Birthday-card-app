@@ -1,8 +1,7 @@
 Create a Birthday Card app - Solution Code
 ==========================================
 
-Create a Birthday Card app 
-```
+
 =========================================
 You need to know:
 - How to create a new app in Android Studio. 
